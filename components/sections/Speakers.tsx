@@ -61,7 +61,7 @@ const chiefGuest = {
   title: 'President of Techsimplified',
   
   image: '/Gemini_Generated_Image_53l5qe53l5qe53l5.png',
-  description: "Rajasekhar Allada is President of Techsimplified.com, Texas.  It is a software company that 
+  description: "He is President of Techsimplified.com, Texas.  It is a software company that 
 services over 25 pension funds.  He has been in the software industry for over 30 years.  In 
 high school, he received a national scientific award from the Surgeon General of the United 
 States for his research with Enzyme Immuno Assays.  His Phd research covered Persons 

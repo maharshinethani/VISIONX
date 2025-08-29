@@ -105,7 +105,7 @@ const HomePage = () => {
               >
                 <div className="flex items-center gap-2">
                   <Calendar className="w-5 h-5 text-cyan-400" />
-                  <span className="font-medium">1 Sept 2025 – 12:30 PM IST</span>
+                  <span className="font-medium">Aug 30 2025 – 2:00 PM IST</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="w-5 h-5 text-purple-400" />
@@ -142,11 +142,11 @@ const HomePage = () => {
               <ul className="space-y-2 text-gray-300">
                 <li className="flex items-start gap-2">
                   <span className="text-yellow-400 mt-1">★</span>
-                  <span>Teams must consist of minimum <strong>two (2)</strong> and maximum <strong>three (3)</strong> members.</span>
+                  <span>Teams must consist of <strong>three(3)</strong>members</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-yellow-400 mt-1">★</span>
-                  <span>Each team must appoint a <strong>Team Leader</strong> who will be the primary point of contact for all communication</span>
+                  <span>Each team must appoint a <strong>Team Leader</strong></span>
                 </li>
               </ul>
             </div>

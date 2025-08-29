@@ -24,7 +24,7 @@ const events: EventType[] = [
     participants: 'Aug 30, 2025',
     icon: AlertCircle,
     date: '09:15 AM',
-    link: 'https://forms.gle/vrwFAELdZpeCKtmMA',
+    link: 'word',
   },
   {
     id: 2,
@@ -33,7 +33,7 @@ const events: EventType[] = [
     participants: 'Aug 30, 2025',
     icon: CheckCircle2,
     date: '2:00 PM',
-    link: 'https://forms.gle/9jzSuoGwSWGbPUYWA',
+    link: 'emoji',
   },
   
 ];

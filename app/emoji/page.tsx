@@ -222,7 +222,7 @@ const HomePage = () => {
             style={{ animationDelay: '1.4s' }}
           >
             <a
-              href="https://forms.gle/hLaCyvfGRhegVQv36"
+              href="https://forms.gle/9jzSuoGwSWGbPUYWA"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-4 bg-gradient-to-r from-cyan-500/20 to-purple-500/20 text-cyan-400 border border-cyan-400/30 rounded-full font-semibold hover:from-cyan-500/30 hover:to-purple-500/30 transition-all duration-300 pulse-glow"

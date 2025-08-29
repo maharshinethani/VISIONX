@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'VISIONX.AI 2025 - Premium AI Festival',
+  title: 'VISIONX AI 2025',
   description: 'Step into the Future of Artificial Intelligence - Aditya Degree College AI Department',
 };
 

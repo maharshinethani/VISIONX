@@ -19,15 +19,6 @@ interface EventType {
 const events: EventType[] = [
   {
     id: 1,
-    title: 'NEURO QUEST',
-    description: 'A knowledge-driven contest that challenges participants with questions on AI, CS, DS,and GK.',
-    participants: 'Sept 1, 2025',
-    icon: Brain,
-    date: '09:15 AM',
-    link: 'quiz', 
-  },
-  {
-    id: 2,
     title: 'WORD HUNT',
     description: 'Hunt – Solve clues, uncover hidden words, and race to find the ultimate treasure of knowledge.',
     participants: 'Sept 2, 2025',
@@ -36,7 +27,7 @@ const events: EventType[] = [
     link: 'word',
   },
   {
-    id: 3,
+    id: 2,
     title: 'IMAGE VERSE',
     description: 'Combine images to create prompts and generate a single AI-powered output.',
     participants: 'Sept 1, 2025',
@@ -44,24 +35,7 @@ const events: EventType[] = [
     date: '12:30 PM',
     link: 'emoji',
   },
-  {
-    id: 4,
-    title: 'DEBUG-X',
-    description: 'A rapid challenge to spot and fix code errors under time pressure.',
-    participants: 'Sept 2, 2025',
-    icon: Network,
-    date: '02:00 PM',
-    link: 'bughunt',
-  },
-  {
-    id: 5,
-    title: 'WEB CRAFT',
-    description: 'Build innovative web apps within a time limit.',
-    participants: 'Sept 1, 2025',
-    icon: Cpu,
-    date: '02:30 PM',
-    link: 'web',
-  },
+  
 ];
 
 const customStyles = `
